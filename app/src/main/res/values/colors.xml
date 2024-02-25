@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="offWhite">#66FFFFFF</color>
+    <color name="white">#FEFEFE</color>
+    <color name="black">#2C2C2C</color>
+    <color name="dark_gray">#A8A7A7</color>
+    <color name="light_grey_50">#E0E0E0</color>
+    <color name="light_grey_100">#D4D4D4</color>
+    <color name="light_grey_150">#F9F9F9</color>
+    <color name="light_grey_200">#E0E0E0</color>
+    <color name="light_grey_300">#C0F3F3F3</color>
+
+</resources>
